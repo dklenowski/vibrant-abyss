@@ -7,12 +7,12 @@
     "activityBarBadge.background": "#000000",
     // Command Center
     "commandCenter.activeBackground": "#000000",
-    "commandCenter.activeBorder": "#000000",
+    "commandCenter.activeBorder": "#464646",
     "commandCenter.activeForeground": "#CCCCCC",
     "commandCenter.background": "#000000",
-    "commandCenter.border": "#000000",
+    "commandCenter.border": "#464646",
     "commandCenter.foreground": "#BBBBBB",
-    "commandCenter.inactiveBorder": "#000000",
+    "commandCenter.inactiveBorder": "#464646",
     "commandCenter.inactiveForeground": "#CCCCCC",
     // Debug tokens
     "debugTokenExpression.boolean": "#5EC7FF",
@@ -47,7 +47,7 @@
     "editorWarning.foreground": "#000000",
     // Editor suggest widget
     "editorSuggestWidget.background": "#000000",
-    "editorSuggestWidget.border": "#000000",
+    "editorSuggestWidget.border": "#464646",
     "editorSuggestWidget.focusHighlightForeground": "#9CDCFE",
     "editorSuggestWidget.highlightForeground": "#4EC1FB",
     "editorSuggestWidget.selectedBackground": "#00000000",
@@ -55,18 +55,18 @@
     "editor.selectionBackground": "#2996DE70",
     "editor.selectionHighlightBorder": "#FFEE00",
     // Editor group
-    "editorGroup.border": "#000000",
+    "editorGroup.border": "#464646",
     "editorGroup.dropBackground": "#000000",
     "editorGroup.emptyBackground": "#000000",
     "editorGroupHeader.noTabsBackground": "#000000",
     "editorGroupHeader.tabsBackground": "#000000",
-    "editorGroupHeader.tabsBorder": "#000000",
+    "editorGroupHeader.tabsBorder": "#464646",
     // Editor hover
     "editorHoverWidget.background": "#000000",
-    "editorHoverWidget.border": "#000000",
+    "editorHoverWidget.border": "#464646",
     // Editor widget
     "editorWidget.background": "#000000",
-    "editorWidget.border": "#000000",
+    "editorWidget.border": "#464646",
     // Input box
     "input.background": "#000000",
     "input.placeholderForeground": "#CCCCCC",
@@ -83,7 +83,7 @@
     "notificationCenterHeader.background": "#000000",
     "notificationLink.foreground": "#1985FF",
     "notifications.background": "#000000",
-    "notifications.border": "#000000",
+    "notifications.border": "#464646",
     "notifications.foreground": "#CCCCCC",
     "notificationsErrorIcon.foreground": "#FF6439",
     "notificationsInfoIcon.foreground": "#1985FF",
@@ -94,10 +94,10 @@
     "scrollbarSlider.hoverBackground": "#FFFFFF33",
     // Side bar
     "sideBar.background": "#000000",
-    "sideBar.border": "#000000",
+    "sideBar.border": "#464646",
     "sideBar.foreground": "#D4D4D4",
     "sideBarSectionHeader.background": "#00000000",
-    "sideBarSectionHeader.border": "#CCCCCC33",
+    "sideBarSectionHeader.border": "#464646",
     "sideBarTitle.foreground": "#D4D4D4",
     // Status bar
     "statusBar.background": "#000000",
@@ -109,11 +109,10 @@
     "statusBarItem.remoteBackground": "#12C083",
     "statusBarItem.remoteForeground": "#DEDEDE",
     // Tabs
-    "tab.border": "#000000",
+    "tab.border": "#464646",
     "tab.hoverBackground": "#000000",
     // Active tabs
-    "tab.activeBackground": "#000000",
-    "tab.activeBorder": "#000000",
+    "tab.activeBackground": "#464646",
     "tab.activeForeground": "#DEDEDE",
     // Inactive tabs
     "tab.inactiveBackground": "#000000",
@@ -126,7 +125,7 @@
     // Title Bar
     "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#CCCCCC",
-    "titleBar.border": "#000000",
+    "titleBar.border": "#464646",
     "titleBar.inactiveBackground": "#000000",
     "titleBar.inactiveForeground": "#CCCCCC",
     // Misc
